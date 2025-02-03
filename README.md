@@ -455,6 +455,13 @@ credentials:
 <table>
 <tr>
     <td align="center">
+        <a href="https://github.com/b3nguang">
+            <img src="https://avatars.githubusercontent.com/u/121670274?v=4" width="75;" alt="b3nguang"/>
+            <br />
+            <sub><b>本光</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/eryajf">
             <img src="https://avatars.githubusercontent.com/u/33259379?v=4" width="75;" alt="eryajf"/>
             <br />
@@ -494,13 +501,6 @@ credentials:
             <img src="https://avatars.githubusercontent.com/u/28869910?v=4" width="75;" alt="ronething"/>
             <br />
             <sub><b>Ashing Zheng</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/b3nguang">
-            <img src="https://avatars.githubusercontent.com/u/121670274?v=4" width="75;" alt="b3nguang"/>
-            <br />
-            <sub><b>本光</b></sub>
         </a>
     </td>
     <td align="center">
